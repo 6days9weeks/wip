@@ -8,3 +8,4 @@
 ```4.``` Code a multipurpose bot in both langs.
 
 ```5.``` Finish my jailbreak theme weebport.
+![Me rn](B33E7E70-A9D1-4690-B51B-5E76E7ACCE9B.jpeg)
