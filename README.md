@@ -1,4 +1,4 @@
-
+### I know this is boring
 ```1.``` Miko-lino discord for the server [chiasa](https://discord.gg/fefSKDf)
 
 ```2.``` Rewriting my website with JavaScript and making it public.
