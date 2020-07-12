@@ -1,5 +1,5 @@
 ## Things i'm currently working on.
-```1.``` Miko-lino discord for the server [chiasa](discord.gg/fefSKDf)
+```1.``` Miko-lino discord for the server [chiasa](https://discord.gg/fefSKDf)
 
 ```2.``` Rewriting my website with JavaScript and making it public.
 
