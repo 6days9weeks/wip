@@ -11,3 +11,5 @@
 
 
 ![Me rn](B33E7E70-A9D1-4690-B51B-5E76E7ACCE9B.jpeg)
+### Finished Things
+Miko lino bot,website
